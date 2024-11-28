@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandaBarbozaB
 - 👀 I’m interested in; development, programming, software, front-end, back-end, data
-- 🌱 I’m currently learning programming languages, like; Python, C#, C++, Java, JavaScript, HTML, SQL
+- 🌱 I’m currently learning programming languages, like; Python, CSS, C++, Java, JavaScript, HTML, SQL
 - 💞️ I’m looking to collaborate new projects for learning and gaining new experiences to expand my repertoire and curriculum
 
 <!---
